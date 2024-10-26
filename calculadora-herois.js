@@ -25,4 +25,4 @@ if (total < 10) {
     nivelHeroi = "Imortal";
 }
 
-console.log("O Herói tem de saldo de " + total + " vitórias e está no nível " + nivelHeroi)
+console.log("A Heroina " + nomeHeroi + " tem de saldo de " + total + " vitórias e está no nível " + nivelHeroi)
